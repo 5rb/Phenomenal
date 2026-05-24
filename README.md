@@ -33,7 +33,7 @@ Welcome to my GitHub profile. I am a Full-Stack Developer, Software Engineering 
 *   **Description:** Developed custom analytical frameworks tailored for tracking digital footprints and analyzing social media structural data to counter digital impersonation.
 *   **Stack:** Python, Network Analysis Tools, Forensic Extraction Utilities.
 
-### 🛒 Centrum (Digital Services Architecture)
+### 🛒 Centrum (`centrumbot.com`)
 *   **Description:** A high-performance digital services store designed on a scalable Microservices architecture.
 *   **Stack:** TypeScript, MongoDB, Custom Load Balancers.
 
